@@ -22,5 +22,7 @@ DTSA 5742 Final Project
 
 ## Dataset
 Air Temperature & Precipitation: <https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00014606/detail>
+
 Groundwater Levels: <https://waterdata.usgs.gov/nwis/inventory?site_no=445319068560101>
+
 RCP8.5 Climate Scenarios: <https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-gddp>
